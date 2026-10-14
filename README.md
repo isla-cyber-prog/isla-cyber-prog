@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Isla
 
-<!--
-**isla-cyber-prog/isla-cyber-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+Sixth-form student in London with an interest in cybersecurity, ethical hacking, Python, and digital safety.
 
-Here are some ideas to get you started:
+Education:
+A-Level English Literature
+A-Level Design Technology
+EPQ: Ethical Hacking and Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+Python
+Kali Linux
+TryHackMe
+Vulnerability Analysis
+CAD Design
+Technical Drawing
+
+Current Projects:
+EPQ on Ethical Hacking and Cybersecurity
+TryHackMe Learning Paths
+Python Practice Projects
+
+Career Goals:
+Cybersecurity Analyst
+Penetration Tester
+Security and Intelligence Careers
