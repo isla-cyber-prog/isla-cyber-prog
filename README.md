@@ -3,9 +3,6 @@
 ## About Me:
 Sixth-form student based in London with a growing interest in cybersecurity, ethical hacking, Python programming, and digital safety. Currently completing an EPQ focused on ethical hacking and cybersecurity.
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isla-cyber-prog&show_icons=true&theme=tokyonights](https://github-readme-stats.vercel.app/api/top-langs/?username=isla-cyber-prog&layout=compact&theme=
-
 ## Education:
 - A-Level English Literature
 - A-Level Design Technology
