@@ -11,8 +11,10 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 ## Certifications and Learning
 - TryHackMe Learning Paths
 - Open University OpenLearn Courses
-- NCSC Resources
+- NCSC Cyber Security
 - Cyber Security Self-Study
+
+  
 
 ## Achievements
 - Completing an EPQ on Ethical Hacking & Cybersecurity
