@@ -1,5 +1,10 @@
 # Hi, I'm Isla 
 
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isla-cyber-prog&show_icons=true&
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isla-cyber-prog&layout=compact
+
 ## About Me:
 Sixth-form student based in London with a growing interest in cybersecurity, ethical hacking, Python programming, and digital safety. Currently completing an EPQ focused on ethical hacking and cybersecurity.
 
@@ -7,6 +12,17 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - A-Level English Literature
 - A-Level Design Technology
 - EPQ: Ethical Hacking and Cybersecurity (in progress)
+
+## Certifications and Learning
+- TryHackMe Learning Paths
+- Open University OpenLearn Courses
+- NCSC Resources
+- Cyber Security Self-Study
+
+## Achievements
+- Completing an EPQ on Ethical Hacking & Cybersecurity
+- Building Cyber Security Projects in Python
+- Developing Practical Linux & Networking Skills
 
 ## Technical Skills:
 - Python
@@ -19,7 +35,9 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 ## Current Projects:
 - EPQ research project
 - TryHackMe Learning Paths
-- Python Programming Projects
+- Python Development
+- Networking
+- Linux Fundamentals
 
 ## Work Experience
 ### Social Media Researcher, HepB Companion
@@ -39,7 +57,10 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 
 ## Interests
 - Cybersecurity
-- Coding
+- Penetration testing
+- Python
+- Digital Forensics
+- Intelligence and National Security
 - Digital Safety
 - CAD & Technical Design
 - Drawing and Sketching
