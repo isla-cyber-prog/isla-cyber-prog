@@ -53,7 +53,7 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 ## Career Interests
 - Cybersecurity
 - Penetration Testing
-- Security Intelligence
+- Threat Intelligence
 
 ## Interests
 - Cybersecurity
