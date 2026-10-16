@@ -1,12 +1,11 @@
 # Hi, I'm Isla 
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isla-cyber-prog&show_icons=true&
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isla-cyber-prog&layout=compact
-
 ## About Me:
 Sixth-form student based in London with a growing interest in cybersecurity, ethical hacking, Python programming, and digital safety. Currently completing an EPQ focused on ethical hacking and cybersecurity.
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isla-cyber-prog&show_icons=true&
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isla-cyber-prog&layout=compact
 
 ## Education:
 - A-Level English Literature
