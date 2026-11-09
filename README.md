@@ -14,8 +14,6 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - NCSC Cyber Security
 - Cyber Security Self-Study
 
-  
-
 ## Achievements
 - Completing an EPQ on Ethical Hacking & Cybersecurity
 - Building Cyber Security Projects in Python
@@ -39,15 +37,26 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - Linux Fundamentals
 
 ## Work Experience
-### Social Media Researcher, HepB Companion
+### Social Media Researcher, HepB Companion (September 2025 – January 2026)
 - Conducted research into Hepatitis B awareness
 - Contributed to social media content and outreach
 - Supported growth in campaign visibility
 
-### Packing Assistant, Candle Manufacturing & Distribution
+### Stennah & Hope, Luxury Candles, London – Packing assistant (June 2026)
 - Packed products for shipment to international hotels
 - Maintained accuracy and quality standards
 - Worked efficiently to meet deadlines
+
+### WSP Engineering, London (February 2023)
+- Learned about structural engineering and the design process for major infrastructure projects.
+-	Gained insight into how engineering teams collaborate to solve design challenges.
+-	Developed an understanding of health and safety considerations in construction and engineering.
+
+### Volunteering
+## Tech Tuesday Volunteer (1 year)
+-	Mentored young students in using digital tools and online platforms safely.
+-	Assisted with troubleshooting basic technical issues.
+-	Promoted responsible and safe use of technology.
 
 ## Career Interests
 - Cybersecurity
