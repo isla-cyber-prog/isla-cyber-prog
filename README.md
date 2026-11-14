@@ -21,16 +21,16 @@ Sixth-form student based in London with a strong interest in cybersecurity, ethi
 
 ## Technical Skills:
 - Python - Fundamental scripting, problem solving, programming concepts
+- C Programming - program structure, variables, data types, input/output, operators, conditionals, loops and functions.
 - Linux Fundamentals -  command line navigation, file management, basic Linux commands
 - Networking Fundamentals - IP addressing, DNS, ports, protocols, and network communication concepts
-- C Programming - program structure, variables, data types, input/output, operators, conditionals, loops and functions.
-- TryHackMe - cybersecurity learning modules and hands-on labs
 - Vulnerability Analysis - identifying and understanding common security weaknesses
+- TryHackMe - cybersecurity learning modules and hands-on labs
 - CAD Design
 - Technical Drawing
 
 ## Current Projects: 
-- EPQ Research Project - penetration testing vs other methods of prevention from cyber attacks
+- EPQ Research Project - Evaluating the effectiveness of penetration testing compared with alternative cybersecurity risk mitigation methods
 - TryHackMe Cybersecurity Learning Paths
 - Python Programming Development
 - Networking Fundamentals Study
