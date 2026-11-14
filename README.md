@@ -21,7 +21,6 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 
 ## Technical Skills:
 - Python
-- Kali Linux
 - Linux Fundamentals
 - Networking Fundementals
 - TryHackMe
