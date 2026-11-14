@@ -1,22 +1,22 @@
 # Hi, I'm Isla 
 
 ## About Me:
-Sixth-form student based in London with a growing interest in cybersecurity, ethical hacking, Python programming, and digital safety. Currently completing an EPQ focused on ethical hacking and cybersecurity.
+Sixth-form student based in London with a strong interest in cybersecurity, ethical hacking, programming, and digital safety. Currently completing an EPQ focused on ethical hacking and cybersecurity while developing practical skills in Python, Linux, networking, and security analysis.
 
 ## Education:
 - A-Level English Literature
 - A-Level Design Technology
 - EPQ: Ethical Hacking and Cybersecurity (in progress)
 
-## Certifications and Learning
+## Learning and Development
 - TryHackMe Learning Paths
 - Open University OpenLearn Courses
-- NCSC Cyber Security
-- Cyber Security Self-Study
+- NCSC Cyber Security Learning Resources
+- Independent Cyber Security Self-Study
 
 ## Achievements
 - Completing an EPQ on Ethical Hacking & Cybersecurity
-- Building Cyber Security Projects in Python
+- Developing Python-based cybersecurity projects and tools
 - Developing Practical Linux & Networking Skills
 
 ## Technical Skills:
@@ -29,12 +29,12 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - CAD Design
 - Technical Drawing
 
-## Current Projects:
-- EPQ research project
-- TryHackMe Learning Paths
-- Python Development
-- Networking
-- Linux Fundamentals
+## Current Projects: 
+- EPQ Research Project - penetration testing vs other methods of prevention from cyber attacks
+- TryHackMe Cybersecurity Learning Paths
+- Python Programming Development
+- Networking Fundamentals Study
+- Linux Fundamentals Practice
 
 ## Work Experience
 ### Social Media Researcher, HepB Companion (September 2025 – January 2026)
@@ -62,11 +62,9 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - Cybersecurity
 - Penetration Testing
 - Threat Intelligence
+- Security Engineering
 
 ## Interests
-- Cybersecurity
-- Penetration testing
-- Python
 - Digital Forensics
 - Intelligence and National Security
 - Digital Safety
