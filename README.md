@@ -20,11 +20,12 @@ Sixth-form student based in London with a growing interest in cybersecurity, eth
 - Developing Practical Linux & Networking Skills
 
 ## Technical Skills:
-- Python
-- Linux Fundamentals
-- Networking Fundementals
-- TryHackMe
-- Vulnerability Analysis
+- Python - Fundamental scripting, problem solving, programming concepts
+- Linux Fundamentals -  command line navigation, file management, basic Linux commands
+- Networking Fundamentals - IP addressing, DNS, ports, protocols, and network communication concepts
+- C Programming - program structure, variables, data types, input/output, operators, conditionals, loops and functions.
+- TryHackMe - cybersecurity learning modules and hands-on labs
+- Vulnerability Analysis - identifying and understanding common security weaknesses
 - CAD Design
 - Technical Drawing
 
